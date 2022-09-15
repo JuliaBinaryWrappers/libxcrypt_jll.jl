@@ -1,0 +1,127 @@
+[[libxcrypt]]
+arch = "aarch64"
+git-tree-sha1 = "0057dd1bd3877fa38bc10f1bd2912aea0b945c22"
+os = "macos"
+
+    [[libxcrypt.download]]
+    sha256 = "63c2681b3330b8518a933b55ad68557d4a6cb8cd9a86b76cd9fd2af6ac0a492a"
+    url = "https://github.com/JuliaBinaryWrappers/libxcrypt_jll.jl/releases/download/libxcrypt-v4.4.28+0/libxcrypt.v4.4.28.aarch64-apple-darwin.tar.gz"
+[[libxcrypt]]
+arch = "aarch64"
+git-tree-sha1 = "17c78473cfff9ca685a30ed340a79f14183c0df5"
+libc = "glibc"
+os = "linux"
+
+    [[libxcrypt.download]]
+    sha256 = "f94efafd74aafb8038378ef50049c067f51206a760c81f5016d36d6edc61c667"
+    url = "https://github.com/JuliaBinaryWrappers/libxcrypt_jll.jl/releases/download/libxcrypt-v4.4.28+0/libxcrypt.v4.4.28.aarch64-linux-gnu.tar.gz"
+[[libxcrypt]]
+arch = "aarch64"
+git-tree-sha1 = "efac7e97310ba9d7676bb971ee338b2eaef0d328"
+libc = "musl"
+os = "linux"
+
+    [[libxcrypt.download]]
+    sha256 = "f2366aa737aca71d302522fa37ae5d7c6c2d55c7cd41a405c3e4632c7863d55a"
+    url = "https://github.com/JuliaBinaryWrappers/libxcrypt_jll.jl/releases/download/libxcrypt-v4.4.28+0/libxcrypt.v4.4.28.aarch64-linux-musl.tar.gz"
+[[libxcrypt]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "98611af69be78d9c58d978397919e5979b6d8d34"
+libc = "glibc"
+os = "linux"
+
+    [[libxcrypt.download]]
+    sha256 = "e4b75cb3b3123842fe0c6c219e071c60e40267ab0c49f1e8b205cd413c9839bc"
+    url = "https://github.com/JuliaBinaryWrappers/libxcrypt_jll.jl/releases/download/libxcrypt-v4.4.28+0/libxcrypt.v4.4.28.armv6l-linux-gnueabihf.tar.gz"
+[[libxcrypt]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "8e5b33fff7123c885420f5fa6bf5a221027452bd"
+libc = "musl"
+os = "linux"
+
+    [[libxcrypt.download]]
+    sha256 = "c3aca3eb007f8a14ced7d7271f93b4425dd0201a1f8294b685883f6131b772e6"
+    url = "https://github.com/JuliaBinaryWrappers/libxcrypt_jll.jl/releases/download/libxcrypt-v4.4.28+0/libxcrypt.v4.4.28.armv6l-linux-musleabihf.tar.gz"
+[[libxcrypt]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "f17455ca6f7b9e12f992548a19efb06c9d3348de"
+libc = "glibc"
+os = "linux"
+
+    [[libxcrypt.download]]
+    sha256 = "25c1b27fb0d587b5106c6bdc421cb78532b1d6b84cdd2a636ee59a21f2539156"
+    url = "https://github.com/JuliaBinaryWrappers/libxcrypt_jll.jl/releases/download/libxcrypt-v4.4.28+0/libxcrypt.v4.4.28.armv7l-linux-gnueabihf.tar.gz"
+[[libxcrypt]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "cf2172739e091d961362b3729a72379f41bb1273"
+libc = "musl"
+os = "linux"
+
+    [[libxcrypt.download]]
+    sha256 = "8f9d0f888b01e8622b166ce9c65f6a0f039f86fb405095fda44fc6ce8cceb121"
+    url = "https://github.com/JuliaBinaryWrappers/libxcrypt_jll.jl/releases/download/libxcrypt-v4.4.28+0/libxcrypt.v4.4.28.armv7l-linux-musleabihf.tar.gz"
+[[libxcrypt]]
+arch = "i686"
+git-tree-sha1 = "47295db06770008ad66bac4daf77268eb7883033"
+libc = "glibc"
+os = "linux"
+
+    [[libxcrypt.download]]
+    sha256 = "45926351a40a0931d49e40abf70df1c32f6f2f3a4ffda3bab3aa79bf54029976"
+    url = "https://github.com/JuliaBinaryWrappers/libxcrypt_jll.jl/releases/download/libxcrypt-v4.4.28+0/libxcrypt.v4.4.28.i686-linux-gnu.tar.gz"
+[[libxcrypt]]
+arch = "i686"
+git-tree-sha1 = "037adf7d3a9fd816a0f9cfafba9a78da704da093"
+libc = "musl"
+os = "linux"
+
+    [[libxcrypt.download]]
+    sha256 = "796c41b1378208fd0bfad91c8b968254bd748dd2994a8fdd789dde72378853d5"
+    url = "https://github.com/JuliaBinaryWrappers/libxcrypt_jll.jl/releases/download/libxcrypt-v4.4.28+0/libxcrypt.v4.4.28.i686-linux-musl.tar.gz"
+[[libxcrypt]]
+arch = "powerpc64le"
+git-tree-sha1 = "56731dbd2348603df2786b6598564622c8ff209e"
+libc = "glibc"
+os = "linux"
+
+    [[libxcrypt.download]]
+    sha256 = "f41f82187208303ebecf2923ea6581f1203e2a21f8e0f0f7bfdb7d9a56729c5d"
+    url = "https://github.com/JuliaBinaryWrappers/libxcrypt_jll.jl/releases/download/libxcrypt-v4.4.28+0/libxcrypt.v4.4.28.powerpc64le-linux-gnu.tar.gz"
+[[libxcrypt]]
+arch = "x86_64"
+git-tree-sha1 = "7458cc42d9516b4fbfbb3dc6247d172fa55ed4a4"
+os = "macos"
+
+    [[libxcrypt.download]]
+    sha256 = "df731267449904fe32ec565e45bec4d790272cf8bb87e0a3e8504f7e83ea2f5d"
+    url = "https://github.com/JuliaBinaryWrappers/libxcrypt_jll.jl/releases/download/libxcrypt-v4.4.28+0/libxcrypt.v4.4.28.x86_64-apple-darwin.tar.gz"
+[[libxcrypt]]
+arch = "x86_64"
+git-tree-sha1 = "c868c9d94c222259c0f74a713a911b6987d9aa07"
+libc = "glibc"
+os = "linux"
+
+    [[libxcrypt.download]]
+    sha256 = "026e7a1d5974bb8d5db71e134a9e7986bc3c430b571d2f92b8ef29c24aed043f"
+    url = "https://github.com/JuliaBinaryWrappers/libxcrypt_jll.jl/releases/download/libxcrypt-v4.4.28+0/libxcrypt.v4.4.28.x86_64-linux-gnu.tar.gz"
+[[libxcrypt]]
+arch = "x86_64"
+git-tree-sha1 = "7d946c100ea180351168140a6692caf928a25830"
+libc = "musl"
+os = "linux"
+
+    [[libxcrypt.download]]
+    sha256 = "39d0b33eba9408bec6206c8ae121c3fd72878707cca50561ab08920620ff66c3"
+    url = "https://github.com/JuliaBinaryWrappers/libxcrypt_jll.jl/releases/download/libxcrypt-v4.4.28+0/libxcrypt.v4.4.28.x86_64-linux-musl.tar.gz"
+[[libxcrypt]]
+arch = "x86_64"
+git-tree-sha1 = "8da4c6efbbdf4a3e602e5e2c9728425248c73bd6"
+os = "freebsd"
+
+    [[libxcrypt.download]]
+    sha256 = "5c26375b990b41cb31010e05a021439e2d449a3b2f02b1656afbf30364db97b2"
+    url = "https://github.com/JuliaBinaryWrappers/libxcrypt_jll.jl/releases/download/libxcrypt-v4.4.28+0/libxcrypt.v4.4.28.x86_64-unknown-freebsd.tar.gz"
